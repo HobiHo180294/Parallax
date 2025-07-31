@@ -14,7 +14,7 @@
 
 Step into a visually captivating web experience where depth and motion converge — this parallax project merges interactive storytelling with atmospheric design to create a sense of immersion that engages users from the very first scroll. Inspired by the ocean's dynamism and guided by a glowing lighthouse, the scene unfolds in layers, blending art and code into one seamless digital narrative.
 
-🔧 This is an MVP version of the application — focused on demonstrating parallax animation techniques, layered composition, and immersive visual storytelling using HTML, CSS, and JavaScript.
+🔧 _This is an MVP version of the application — focused on demonstrating parallax animation techniques, layered composition, and immersive visual storytelling using HTML, CSS, and JavaScript._
 
 ## ⚙️ Tech Stack
 
